@@ -57,8 +57,8 @@ I'm an **Applied AI** student at **UrFU (IRIT-RTF)** building at the intersectio
 
 ---
 
-### ▸ Commit Telemetry
+### ▸ 3D Contribution City
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iseemhlyfta&bg_color=0d1117&color=8b949e&line=ff2a4b&point=ffffff&area=true&area_color=7a0016&hide_border=true&custom_title=Contribution%20Pulse" width="100%" />
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph" width="100%" />
 </p>
