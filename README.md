@@ -19,7 +19,7 @@
 
 ### ▸ Engineering Focus
 
-I'm an **Applied AI** student at **UrFU (IRIT-RTF)** building at the intersection of **machine learning** and **systems programming**. I work primarily in **Python** and **Rust** (currently expanding into **Java**), contribute to large open-source codebases, and enjoy going down the stack — from LLM agents to custom hardware drivers.
+I'm an **Applied AI** student at **UrFU (IRIT-RTF)** building at the intersection of **machine learning** and **systems programming**. I work primarily in **Python** and **Rust** (currently expanding into **Java**), contribute to large open-source codebases, and enjoy going down the stack - from LLM agents to custom hardware drivers.
 
 | Domain | What I Build |
 | :--- | :--- |
@@ -36,9 +36,8 @@ I'm an **Applied AI** student at **UrFU (IRIT-RTF)** building at the intersectio
 | :--- | :--- | :--- |
 | **[EffectCraft](https://github.com/storytold/effectcraft)** *(9.5k+ ★)* | Contributed a complete, production-ready plugin installation library to a pure-Rust motion graphics & compositing engine | `Rust` |
 | **[Rerun](https://github.com/rerun-io/rerun)** *(11.9k+ ★)* | Open-source contributions to a multimodal robotics data visualization & streaming engine | `Rust` |
-| **[hitcam](https://github.com/iseemhlyfta/hitcam)** | Custom camera & video streaming tooling | `C#` |
+| **[HitCam](https://github.com/iseemhlyfta/hitcam)** | Open-source local-only iVCam alternative: streams 1080p60 H.264 from iOS/Android to a custom C++ Windows virtual camera (Media Foundation / DirectShow) with D3D11/RTX GPU processing | `C#` `C++` `Swift` `D3D11` |
 | **Sber AI Tools** | Built an AI bot for commercial real estate search and a global speaker search & collaboration platform | `Python` `LLMs` `AI Agents` |
-| **Phone-to-PC Camera Driver** | Wrote a working low-level driver from scratch to transmit a live video stream from a smartphone camera to a PC | `Systems` `Drivers` |
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" />
