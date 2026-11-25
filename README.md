@@ -70,6 +70,16 @@ I'm an **Applied AI** student at **UrFU (IRIT-RTF)** building at the intersectio
   <img src="./assets/neural-net.svg" alt="Animated Neural Network" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+### ▸ 3D Contribution City
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
 <!-- GRAINY GRADIENT FOOTER -->
 <p align="center">
   <img src="./assets/footer.svg" width="100%" />
