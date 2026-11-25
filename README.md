@@ -17,7 +17,7 @@
 
 ### ▸ Engineering Focus
 
-I'm an **Applied AI** student at **UrFU (IRIT-RTF)** building at the intersection of **machine learning** and **systems programming**. I work primarily in **Python** and **Rust** (currently expanding into **Java**), contribute to large open-source codebases, and enjoy going down the stack — from LLM agents to custom hardware drivers.
+I'm an **Applied AI** student at **UrFU (IRIT-RTF)** building at the intersection of **machine learning** and **systems programming**. I work primarily in **Python** and **Rust** (currently expanding into **Java**), contribute to large open-source codebases, and enjoy going down the stack - from LLM agents to custom hardware drivers.
 
 | Domain | What I Build |
 | :--- | :--- |
