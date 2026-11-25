@@ -62,3 +62,7 @@ I'm an **Applied AI** student at **UrFU (IRIT-RTF)** building at the intersectio
 <p align="center">
   <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph" width="100%" />
 </p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" />
+</p>
